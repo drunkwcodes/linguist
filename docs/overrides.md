@@ -93,7 +93,7 @@ Use the `linguist-vendored` attribute to vendor or un-vendor paths:
 # Apply override to all files in the directory
 special-vendored-path/* linguist-vendored
 # Apply override to a specific file
-jquery.js -linguist-vendored
+jquery.js linguist-vendored
 # Apply override to all files and directories in the directory
 ano-dir/** linguist-vendored
 ```
