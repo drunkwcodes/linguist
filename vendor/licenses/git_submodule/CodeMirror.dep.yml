@@ -1,6 +1,6 @@
 ---
 name: CodeMirror
-version: 9974ded36bf01746eb2a00926916fef834d3d0d0
+version: dd44c943cc25109d73041abb9f859581c4dec07a
 type: git_submodule
 homepage: https://github.com/codemirror/CodeMirror
 license: mit
@@ -172,6 +172,7 @@ notices:
     Brandon Frohs
     Brandon Wamboldt
     Bret Little
+    Brett Morgan
     Brett Zamir
     Brian Grinstead
     BrianHung
@@ -250,6 +251,7 @@ notices:
     Dave MacLachlan
     Dave Myers
     David Barnett
+    David Foster
     David H. Bronke
     David Mignot
     David Pathakjee
@@ -333,6 +335,7 @@ notices:
     Fredrik Borg
     FUJI Goro (gfx)
     fzipp
+    Gabriela Gutierrez
     Gabriel Gheorghian
     Gabriel Horner
     Gabriel Nahmias
@@ -750,6 +753,7 @@ notices:
     paris
     Paris
     Paris Kasidiaris
+    Parker Lougheed
     Patil Arpith
     Patrick Kettner
     Patrick Stoica

@@ -1,6 +1,6 @@
 ---
 name: atom-language-stan
-version: ac52b773151e9dea0a5aad4bc092177337e705f6
+version: d74b0c8056411cbaedb1910fd59aaf3e8578ad2c
 type: git_submodule
 homepage: https://github.com/stan-dev/atom-language-stan.git
 license: mit

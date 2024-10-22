@@ -1,6 +1,6 @@
 ---
 name: vscode-pddl
-version: '09404a3c9c88c63c27f2b4962a163eee571e36bf'
+version: 37ea303d40fe1168d04f0abeeff7b93839c2abb0
 type: git_submodule
 homepage: https://github.com/jan-dolejsi/vscode-pddl.git
 license: mit
